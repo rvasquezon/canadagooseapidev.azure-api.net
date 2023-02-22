@@ -1,1 +1,1 @@
-# canadagooseapidev.azure-api.net
+rvasquezon.github.io
